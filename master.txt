@@ -1,5 +1,2 @@
 master
-<<<<<<< HEAD
-=======
-gdfgj
->>>>>>> origin/master
+AAAAAAAAAAAAAAAAAA
